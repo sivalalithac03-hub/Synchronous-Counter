@@ -1,0 +1,17 @@
+Time = 0   | Reset = 1 | Count = 0000
+Time = 10  | Reset = 0 | Count = 0001
+Time = 20  | Reset = 0 | Count = 0010
+Time = 30  | Reset = 0 | Count = 0011
+Time = 40  | Reset = 0 | Count = 0100
+Time = 50  | Reset = 0 | Count = 0101
+Time = 60  | Reset = 0 | Count = 0110
+Time = 70  | Reset = 0 | Count = 0111
+Time = 80  | Reset = 0 | Count = 1000
+Time = 90  | Reset = 0 | Count = 1001
+Time = 100 | Reset = 0 | Count = 1010
+Time = 110 | Reset = 0 | Count = 1011
+Time = 120 | Reset = 0 | Count = 1100
+Time = 130 | Reset = 0 | Count = 1101
+Time = 140 | Reset = 0 | Count = 1110
+Time = 150 | Reset = 0 | Count = 1111
+Time = 160 | Reset = 0 | Count = 0000
